@@ -153,7 +153,7 @@ For more information about how to get started with NGC containers, refer to the 
 2. Enter the Deep Learning Examples TSPP repository:
 
 ```
-cd DeeplearningExamples/Tools/TimeSeriesPredictionPlatform
+cd DeeplearningExamples/Tools/PyTorch/TimeSeriesPredictionPlatform
 ```
 3. Copy the relevant temporal fusion transformer [code](https://github.com/NVIDIA/DeepLearningExamples/blob/master/PyTorch/Forecasting/TFT/modeling.py) to the TSPP:
 ```
